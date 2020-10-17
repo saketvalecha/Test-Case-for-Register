@@ -1,0 +1,12 @@
+Verify that Full Name field accepts only alphabets.
+Check whether your Email ID field accepts only alphabets, numeric, special characters including dot.
+Check the password should be of minimum 8 characters long.
+Check that upon hover Full Name field a message displayed "Minimum 3 character required".
+Check that contact field doesnot allow alphabets.
+Check that contact field contains only 10 numeric character.
+Check that upon hitting Register button, it allows you to redirect LogIn page.
+Verify that correct company logo is displayed on the LogIn page.
+Verify that LogIn button functionality is displayed if you are already a Registerd User.
+Verify that Company Contact Us information link navigates to the Contact Us page.
+Verify that message displayed on filling invalid email format.
+Verify that if user enter less than 8 characters in Password field a message displayed "Your password should be atleast 8 characters."
